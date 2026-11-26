@@ -1,95 +1,105 @@
 {
- "version": "19.3",
+ "version": "19.4",
  "items": [
-  "Nouvelle interface : pause, inventaire, options et fenêtres ont le même style.",
-  "Les touches s'affichent comme de vraies touches, partout.",
-  "Le HUD ne se fait plus couper par les bandes cinéma."
+  "Nouvel écran de lancement aux couleurs d'Abysse.",
+  "Le titre de la phase 2 des boss reste affiché plus longtemps.",
+  "Compteur de cristaux plus contrasté.",
+  "Objets pas encore trouvés : une icône de leur catégorie au lieu d'un « ? »."
  ],
  "changes": {
   "Interface": [
-   "Pause redessinée : ta progression en jauges, menu plus clair.",
-   "Options avec de vrais interrupteurs Oui / Non.",
-   "Touches dessinées dans toutes les aides en bas d'écran."
+   "Écran de lancement Abysse (au lieu de l'écran gris).",
+   "Cristaux : gemme plus nette, chiffre plus lisible sur fond clair.",
+   "Titre de phase 2 visible 5 secondes et demie."
   ],
-  "Corrections": [
-   "Les bandes cinéma ne cachent plus tes masques ni ton âme.",
-   "La fenêtre « Quoi de neuf » s'adapte à son texte."
+  "Inventaire": [
+   "Les objets à trouver montrent la silhouette de leur catégorie.",
+   "« Pas encore trouvé » écrit en grand.",
+   "Toutes les armes ont la même taille dans la grille."
   ]
  },
  "i18n": {
   "en": {
    "items": [
-    "New interface: pause, inventory, options and pop-ups share one style.",
-    "Keys now show up as real keycaps, everywhere.",
-    "Cinematic bars no longer cut off the HUD."
+    "New launch screen in Abysse's colours.",
+    "The boss phase 2 title stays on screen longer.",
+    "Higher-contrast crystal counter.",
+    "Items not found yet: a category icon instead of a “?”."
    ],
    "changes": {
     "Interface": [
-     "Redesigned pause: your progress as gauges, clearer menu.",
-     "Options with real Yes / No switches.",
-     "Drawn keycaps in every hint bar."
+     "Abysse launch screen (instead of the grey screen).",
+     "Crystals: sharper gem, number easier to read on light backgrounds.",
+     "Phase 2 title shown for five and a half seconds."
     ],
-    "Fixes": [
-     "Cinematic bars no longer hide your masks or your soul.",
-     "The “What's new” window fits its text."
+    "Inventory": [
+     "Items to find show their category's silhouette.",
+     "“Not found yet” written large.",
+     "All weapons are the same size in the grid."
     ]
    }
   },
   "it": {
    "items": [
-    "Nuova interfaccia: pausa, inventario, opzioni e finestre hanno lo stesso stile.",
-    "I tasti appaiono come veri tasti, ovunque.",
-    "Le bande cinema non tagliano più l'HUD."
+    "Nuova schermata di avvio con i colori di Abysse.",
+    "Il titolo della fase 2 dei boss resta più a lungo.",
+    "Contatore dei cristalli più contrastato.",
+    "Oggetti non ancora trovati: un'icona della categoria invece di un «?»."
    ],
    "changes": {
     "Interfaccia": [
-     "Pausa ridisegnata: i tuoi progressi in barre, menu più chiaro.",
-     "Opzioni con veri interruttori Sì / No.",
-     "Tasti disegnati in tutte le barre d'aiuto."
+     "Schermata di avvio di Abysse (invece di quella grigia).",
+     "Cristalli: gemma più nitida, numero più leggibile su sfondo chiaro.",
+     "Titolo della fase 2 visibile cinque secondi e mezzo."
     ],
-    "Correzioni": [
-     "Le bande cinema non nascondono più le maschere né l'anima.",
-     "La finestra «Novità» si adatta al testo."
+    "Inventario": [
+     "Gli oggetti da trovare mostrano la sagoma della categoria.",
+     "«Non ancora trovato» scritto in grande.",
+     "Tutte le armi hanno la stessa dimensione nella griglia."
     ]
    }
   },
   "de": {
    "items": [
-    "Neue Oberfläche: Pause, Inventar, Optionen und Fenster im gleichen Stil.",
-    "Tasten erscheinen überall als echte Tasten.",
-    "Kinobalken schneiden das HUD nicht mehr ab."
+    "Neuer Startbildschirm in den Farben von Abysse.",
+    "Der Titel der Boss-Phase 2 bleibt länger stehen.",
+    "Kristallzähler mit mehr Kontrast.",
+    "Noch nicht gefundene Gegenstände: ein Kategorie-Symbol statt „?“."
    ],
    "changes": {
     "Oberfläche": [
-     "Neue Pause: dein Fortschritt als Balken, klareres Menü.",
-     "Optionen mit echten Ja/Nein-Schaltern.",
-     "Gezeichnete Tasten in allen Hilfeleisten."
+     "Abysse-Startbildschirm (statt des grauen Bildschirms).",
+     "Kristalle: schärferes Juwel, Zahl auf hellem Grund besser lesbar.",
+     "Titel der Phase 2 fünfeinhalb Sekunden sichtbar."
     ],
-    "Korrekturen": [
-     "Kinobalken verdecken nicht mehr Masken und Seele.",
-     "Das Fenster „Neuigkeiten“ passt sich dem Text an."
+    "Inventar": [
+     "Zu findende Gegenstände zeigen die Silhouette ihrer Kategorie.",
+     "„Noch nicht gefunden“ groß geschrieben.",
+     "Alle Waffen sind im Raster gleich groß."
     ]
    }
   },
   "qc": {
    "items": [
-    "Nouvelle interface : pause, inventaire, options pis fenêtres ont le même style.",
-    "Les touches s'affichent comme des vraies touches, partout.",
-    "Le HUD se fait pus couper par les bandes cinéma."
+    "Nouvel écran de lancement aux couleurs d'Abysse.",
+    "Le titre de la phase 2 des boss reste affiché plus longtemps.",
+    "Compteur de cristaux plus contrasté.",
+    "Objets pas encore trouvés : une icône de leur catégorie au lieu d'un « ? »."
    ],
    "changes": {
     "Interface": [
-     "Pause redessinée : ta progression en jauges, menu plus clair.",
-     "Options avec des vrais interrupteurs Oui / Non.",
-     "Touches dessinées dans toutes les aides en bas d'écran."
+     "Écran de lancement Abysse (au lieu de l'écran gris).",
+     "Cristaux : gemme plus nette, chiffre plus lisible sur fond pâle.",
+     "Titre de phase 2 visible cinq secondes et demie."
     ],
-    "Corrections": [
-     "Les bandes cinéma cachent pus tes masques pis ton âme.",
-     "La fenêtre « Quoi de neuf » s'adapte à son texte."
+    "Inventaire": [
+     "Les objets à trouver montrent la silhouette de leur catégorie.",
+     "« Pas encore trouvé » écrit en gros.",
+     "Toutes les armes ont la même grosseur dans la grille."
     ]
    }
   }
  },
- "size": 29220944,
- "notes": "Nouvelle interface harmonisée."
+ "size": 29347296,
+ "notes": "Retours design : lancement, cristaux, inventaire."
 }
